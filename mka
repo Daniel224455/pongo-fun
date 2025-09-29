@@ -1,0 +1,1 @@
+make all CC=clang-15 CXX=clang++-15 LD_LIBRARY_PATH="/usr/lib/llvm-14/lib/"
